@@ -19,18 +19,20 @@ This is a very simple mod that took less than 10 minutes to create but thought i
 
 ### How to install
 
-    1 - Download the latest build
+1 - Download the latest build
 
-    2 - Open Chrome and go to 
-       chrome://extensions/
+ 2 - Open Chrome and go to 
+    
+    chrome://extensions/
 
-    3 - In the top right corner enable developer mode
+3 - In the top right corner enable developer mode
 ![alt text](https://i.imgur.com/lzJZ7jL.png)
 
-    4 - Tap "Load unpacked"
+4 - Tap "Load unpacked"
+
 ![alt text](https://i.imgur.com/6yqfc90.png)
 
-    5 - Now your are done! Just click the extension button on chrome and enjoy  100% free VPN for Chrome
+5 - Now your are done! Just click the extension button on chrome and enjoy  100% free VPN for Chrome
 
     
     
